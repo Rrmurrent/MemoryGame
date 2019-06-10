@@ -1,7 +1,7 @@
     
 import React from "react"
-import NavBar from "./components/NavBar"
-import Main from "./components/Main"
+import NavBar from "./components/navBar"
+import Main from "./components/main"
 import Background from "./assets/images/trianglify.png"
 
 const background = {

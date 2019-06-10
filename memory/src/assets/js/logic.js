@@ -1,4 +1,4 @@
-import Main from "../../components/Main"
+import Main from "../../components/main"
 const click = {
     array: [],
     score: 0,

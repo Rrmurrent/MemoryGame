@@ -1,0 +1,27 @@
+body{
+    background-color: #777777;
+}
+
+.container{
+    background-color: #444444;
+    margin-left: 10%;
+    margin-right:10%;
+    width:80%
+}
+
+.navigate {
+    height: 100px;
+}
+
+.pics{
+    margin: 20px;
+    size: 20px;
+    
+}
+
+.pics:hover{
+    border:#afafaf 2px solid;
+}
+/* .01{
+    size: 20px;
+} */
